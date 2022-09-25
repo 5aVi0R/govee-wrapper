@@ -10,7 +10,7 @@ A python wrapper for the official Govee api
 
 ##### Local
 
-`pip install git+https://github.com/5aVi0R/govee-wrapper.git@v<version>#egg=govee-wrapper`
+`pip install git+https://github.com/5aVi0R/govee-wrapper.git@v<version>#egg=govee`
 
 ##### PyPI
 coming soon...

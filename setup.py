@@ -5,7 +5,7 @@ setup (
     url='https://github.com/5aVi0R/govee-wrapper',
     author='5aVi0R',
     author_email='N/A',
-    packages=['govee-wrapper'],
+    packages=['govee'],
     install_requires=['requests'],
     version='1.0',
     license='Apache License 2.0',
