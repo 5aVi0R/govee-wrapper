@@ -6,7 +6,7 @@ setup (
     author='5aVi0R',
     author_email='N/A',
     packages=['govee-wrapper'],
-    install_requires=['requests','json'],
+    install_requires=['requests'],
     version='1.0',
     license='Apache License 2.0',
     description='A python wrapper for the official Govee api',

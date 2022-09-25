@@ -7,7 +7,6 @@ A python wrapper for the official Govee api
 
 ##### Dependencies
  - requests
- - json
 
 ##### Local
 
