@@ -10,5 +10,5 @@ setup (
     version='1.0',
     license='Apache License 2.0',
     description='A python wrapper for the official Govee api',
-    long_description=open('README.txt').read()
+    long_description=open('README.md').read()
 )
